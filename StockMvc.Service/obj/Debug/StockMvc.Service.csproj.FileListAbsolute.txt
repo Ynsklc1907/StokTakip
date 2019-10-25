@@ -1,0 +1,16 @@
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\bin\Debug\StockMvc.Service.dll
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\bin\Debug\StockMvc.Service.pdb
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\bin\Debug\NLog.dll
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\bin\Debug\StockMvc.Data.dll
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\bin\Debug\StockMvc.DTO.dll
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\bin\Debug\EntityFramework.dll
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\bin\Debug\StockMvc.Data.pdb
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\bin\Debug\StockMvc.Data.dll.config
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\bin\Debug\StockMvc.DTO.pdb
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\bin\Debug\NLog.xml
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\bin\Debug\EntityFramework.xml
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\obj\Debug\StockMvc.Service.csprojAssemblyReference.cache
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\obj\Debug\StockMvc.Service.csproj.CoreCompileInputs.cache
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\obj\Debug\StockMvc.Service.csproj.CopyComplete
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\obj\Debug\StockMvc.Service.dll
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Service\obj\Debug\StockMvc.Service.pdb

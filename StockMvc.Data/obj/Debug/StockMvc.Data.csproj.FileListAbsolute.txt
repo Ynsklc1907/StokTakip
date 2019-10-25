@@ -1,0 +1,12 @@
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Data\bin\Debug\StockMvc.Data.dll.config
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Data\bin\Debug\StockMvc.Data.dll
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Data\bin\Debug\StockMvc.Data.pdb
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Data\bin\Debug\EntityFramework.dll
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Data\bin\Debug\EntityFramework.xml
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Data\obj\Debug\StockMvc.Data.csprojAssemblyReference.cache
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Data\obj\Debug\StockMvc.Data.csproj.CoreCompileInputs.cache
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Data\obj\Debug\StockMvc.Data.csproj.CopyComplete
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Data\obj\Debug\StockMvc.Data.dll
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.Data\obj\Debug\StockMvc.Data.pdb

@@ -1,0 +1,5 @@
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.DTO\bin\Debug\StockMvc.DTO.dll
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.DTO\bin\Debug\StockMvc.DTO.pdb
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.DTO\obj\Debug\StockMvc.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.DTO\obj\Debug\StockMvc.DTO.dll
+C:\Users\ynskl\Desktop\StockMvc\StockMvc\StockMvc.DTO\obj\Debug\StockMvc.DTO.pdb
